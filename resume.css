@@ -1,7 +1,7 @@
 body {
     color: #000000;
     background: #EEEEEE;
-    font: 1.1em "Times New Roman";
+    font: 1.2em "Roboto";
     line-height: 1.2;
     margin: 40px 0;
 }
@@ -95,7 +95,7 @@ h1 + ul + p {
     /* Change margins and paper size of PDF */
     /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
     size: letter;
-    margin: 0.5in 0.8in;
+    margin: 0.4in 0.6in;
 }
 @media screen and (max-width: 800px) {
     body {
