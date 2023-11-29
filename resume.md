@@ -23,10 +23,10 @@ hand -->
 
   - Led critical feature development for our Node.js service, ensuring end-to-end implementation and successful production deployment.
   - Established comprehensive test coverage using Jest for our service, integrated into our CI pipeline for validation on every pull commit in a pull request.
-  - Simplified debugging and improved maintainability through significant codebase refactoring.
+  - Improved maintainability and simplified debugging through significant codebase refactoring.
   - Collaborated closely with end-users to troubleshoot and resolve challenges related to our services.
-  - Contributed to infrastructure with Kubernetes (Helm, Tekton), containers (Podman, Docker), Terraform/OpenTofu, and observability tools.
-  - Enhanced and packaged an internal CLI tool for live debugging production issues and cluster management, simplifying installation with pip.
+  - Contributed to infrastructure with Kubernetes (Helm, Tekton), containers (Podman, Docker), Terraform, and observability tools.
+  - Enhanced an internal CLI tool for live debugging of production environments and cluster management, packaging it with pip for a simple installation process for others.
 
 
 ### <span>Software Engineer Intern - IBM Cloud</span> <span>May 2022 -- Dec 2022</span>
@@ -38,9 +38,9 @@ hand -->
 
 ## Education
 
-### <span>University of Pittsburgh, BS Computer Science</span> <span>Aug 2020 -- Apr 2023</span>
+### <span>B.S. Computer Science</span> <span>Aug 2020 -- Apr 2023</span>
 
-  GPA: 3.86/4.00
+  University of Pittsburgh - GPA: 3.86/4.00
 
 ## Projects
 
