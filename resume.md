@@ -51,9 +51,9 @@ hand -->
 
 ### <span>Deep Answers</span> <span>[_github.com/h0rv/deep-answers_](https://github.com/h0rv/deep-answers)</span>
 
-  - Developed a LLM-based chatbot with retrieval augmented generation (RAG) to analyze podcast transcripts from a favorite podcast.
+  - Developed a (Large language model) LLM-based chatbot with retrieval augmented generation (RAG) to analyze podcast transcripts from a favorite podcast.
   - Provides a platform for generating answers and responses to questions and prompts related to the podcast content, promoting the dissemination of ideas, advice, and information within the podcast's domain.
-  - Uses Llama 2, ChromaDB for the vector database, and streamlit for the frontend.
+  - Uses the Llama 2 model, ChromaDB vector database, and streamlit for the frontend.
 
 ### <span>TCP Implementation</span> <span>_Code available upon request_</span>
 
@@ -61,5 +61,6 @@ hand -->
 
 ## Skills
 
-  __Languages:__ JavaScript, Go, Python, C, Java, Rust, Haskell
+  - __Languages:__ JavaScript (Node.js), Go, Python, C, Java, Rust, Haskell, Shell (Bash, Fish)
+  - __Technologies:__ GNU/Linux, Redis, Containers, Kubernetes, Git, NeoVim
 
