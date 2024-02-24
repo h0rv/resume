@@ -17,7 +17,15 @@ is intended to be used for a short summary. -->
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Software Engineer - IBM Cloud</span> <span>June 2023 -- Present</span>
+
+### <span>Software Engineer - IBM Software</span> <span>June 2023 -- Present</span>
+
+  Raleigh-Durham, NC
+
+  - Developing infrastructure to expand and automate a Multicloud platform to include Azure; using Terraform, Ansible, and ArgoCD.
+  - Researching and developing LLM-powered applications (chatbots and agents) using LangChain and watsonx.
+
+### <span>Software Engineer - IBM Cloud (Continuous Delivery (CD))</span> <span>June 2023 -- Present</span>
 
   Raleigh-Durham, NC
 
@@ -28,8 +36,7 @@ hand -->
   - Contributed to infrastructure with Kubernetes (Helm, Tekton), containers (Podman, Docker), Terraform, and observability tools.
   - Enhanced an internal CLI tool for live debugging of production environments and cluster management, packaging it with pip for a simple installation process for others.
 
-
-### <span>Software Engineer Intern - IBM Cloud</span> <span>May 2022 -- Dec 2022</span>
+### <span>Software Engineer Intern - IBM Cloud (Continuous Delivery (CD))</span> <span>May 2022 -- Dec 2022</span>
 
   Raleigh-Durham, NC (Remote)
 
