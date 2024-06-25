@@ -3,9 +3,9 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-  - <robby@proton.me>
+  - <rhorv@proton.me>
   - [h0rv.github.io](https://h0rv.github.io/)
-  - Durham, NC
+  - Raleigh-Durham, NC
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
 is intended to be used for a short summary. -->
@@ -18,28 +18,25 @@ is intended to be used for a short summary. -->
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
 
-### <span>Software Engineer - IBM Software - MultiCloud Platforms</span> <span>January 2024 -- Present</span>
+### <span>Software Engineer - IBM Software - MultiCloud SaaS Platforms</span> <span>January 2024 -- Present</span>
 
-  Raleigh-Durham, NC
+  Durham, NC
 
-  - Significantly contributing to the expansion of the MultiCloud platform to include Azure, automating the infrastructure using a GitOps workflow with Terraform/Tofu, Atlantis, Go, and ArgoCD.
-  - Leading the research and development of a RAG (Retrieval Augmented Generative) LLM chatbot to enhance customer onboarding and documentation Q&A.
+  - Propelled the expansion of the MultiCloud platform to include Azure while implementing to a major architecture change: a GitOps workflow using Terraform/Tofu, Atlantis, Go, and ArgoCD.
+  - Led the Terraform module API design and implemention (standard across all supported clouds) that we exposed to users.
+  - Spearheaded the architecture and development of a RAG (Retrieval Augmented Generative) LLM chatbot to enhance customer onboarding and documentation Q&A. Implemented data processing pipelines from internal sources to power search for the model.
 
-### <span>Software Engineer - IBM Cloud Continuous Delivery (CD)</span> <span>June 2023 -- January 2024</span>
+### <span>Software Engineer - IBM Cloud Continuous Delivery</span> <span>June 2023 -- January 2024</span>
 
-  Raleigh-Durham, NC
+  Durham, NC
 
-  - Led critical feature development for Node.js service, ensuring on-time production roll-out.
-  - Established comprehensive test coverage using Jest, integrating it into the CI (Continuous Integration) pipeline to maintain service reliability.
-  - Significantly refactored the codebase, greatly improving maintainability, performance, and the overall debugging experience.
-  - Provided support to end-users to troubleshoot and resolve issues related to our services.
+  - Led major refactoring and implemented critical feature in Node.js services, enhancing performance and reliability; developed CLI tools for production debugging, optimized CI/CD pipelines, and provided technical support to end-users, improving overall system efficiency, reliability, and user satisfaction.
 
-### <span>Software Engineer Intern - IBM Cloud (Continuous Delivery (CD))</span> <span>May 2022 -- Dec 2022</span>
+### <span>Software Engineer Intern - IBM Cloud Continuous Delivery</span> <span>May 2022 -- Dec 2022</span>
 
-  Raleigh-Durham, NC (Remote)
+  Durham, NC (Remote)
 
-  - Delivered a new feature to production with proper tests within the initial 3 weeks in Go despite being completely new to the language.
-  - Improved observability by optimizing performance monitoring for all Node microservices and automated the deployment of observability setups across multiple cloud regions.
+  - Delivered multiple production-ready features across various projects, including IBM Cloud Code Risk Analyzer CLI, LogDNA automation, and observability, demonstrating rapid learning and adaptability in Go, Node.js, Terraform, and general DevOps practices.
 
 ## Education
 
@@ -49,14 +46,17 @@ hand -->
 
 ## Projects
 
+### <span>Creator & Maintainer - instructor-go</span> <span>[_github.com/instructor-ai/instructor-go_](https://github.com/instructor-ai/instructor-go)</span>
+
+  - Designed, developed, and maintain a Go library that provides a simple interface for extracting structurered outputs from LLMs. Enhanced functionality and performance to drive adoption. Supports multiple popular LLM API providers and streaming outputs.
+
+### <span>Co-creator & Maintainer - watsonx-go</span> <span>[_github.com/ibm/watsonx-go_](https://github.com/ibm/watsonx-go)</span>
+
+  - Developed and maintain the Go client for IBM Watsonx.ai, providing a intuitive interface that allows integration of watsonx in Go applications.
+
 ### <span>mjc (MiniJava Compiler)</span> <span>_Code available upon request_</span>
 
-  - Developed MiniJava (subset of Java) compiler that with MIPS assembly as the target language.
-  - Created using Java, JFlex (lexical analysis), and JavaCUP (parsing).
-
-### <span>Deep Answers</span> <span>[_github.com/h0rv/deep-answers_](https://github.com/h0rv/deep-answers)</span>
-
-  - Created an LLM-based chatbot with RAG to analyze and "chat" with a podcast from its transcriptions.
+  - Developed a compiler for MiniJava (subset of Java) with the target language of MIPS assembly using Java, JFlex (lexical analysis), and JavaCUP (parsing).
 
 ### <span>TCP Implementation</span> <span>_Code available upon request_</span>
 
@@ -64,6 +64,6 @@ hand -->
 
 ## Skills
 
-  - __Languages:__ JavaScript (Node.js), Go, Python, Terraform/Tofu, C, Java, Rust, Haskell, Shell (Bash, Fish)
-  - __Technologies:__ GNU/Linux, Redis, Podman/Docker, Kubernetes, Git, NeoVim
+  - __Languages:__ Go, Python, JavaScript, Terraform/Tofu, C, Java, Rust, Haskell, Shell (Bash, Fish)
+  - __Technologies:__ GNU/Linux, Git, CI/CD (Tekton, Travis, GitHub Actions), Cloud (IBM Cloud, Azure, AWS), Databases (Redis, LanceDB, Postgres), Podman/Docker, Kubernetes (OpenShift)
 
