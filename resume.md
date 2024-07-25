@@ -48,7 +48,7 @@ hand -->
 
 ### <span>Creator & Maintainer - instructor-go</span> <span>[_github.com/instructor-ai/instructor-go_](https://github.com/instructor-ai/instructor-go)</span>
 
-  - Designed, developed, and maintain a Go library that provides a simple interface for extracting structurered outputs from LLMs. Enhanced functionality and performance to drive adoption. Supports multiple popular LLM API providers and streaming outputs.
+  - Designed, developed, and maintain a Go library that provides a simple interface for extracting structured outputs from LLMs. Enhanced functionality and performance to drive adoption. Supports multiple popular LLM API providers and streaming outputs.
 
 ### <span>Co-creator & Maintainer - watsonx-go</span> <span>[_github.com/ibm/watsonx-go_](https://github.com/ibm/watsonx-go)</span>
 
