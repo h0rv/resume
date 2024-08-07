@@ -24,6 +24,7 @@ hand -->
 
   - Propelled the expansion of the MultiCloud platform to include Azure while implementing to a major architecture change: a GitOps workflow using Terraform/Tofu, Atlantis, Go, and ArgoCD.
   - Led the Terraform module API design and implemention (standard across all supported clouds) that we exposed to users.
+  - Contributed to Kubernetes operators for managing cluster and infrastructure deployments.
   - Spearheaded the architecture and development of a RAG (Retrieval Augmented Generative) LLM chatbot to enhance customer onboarding and documentation Q&A. Implemented data processing pipelines from internal sources to power search for the model.
 
 ### <span>Software Engineer - IBM Cloud Continuous Delivery</span> <span>June 2023 -- January 2024</span>
@@ -65,5 +66,5 @@ hand -->
 ## Skills
 
   - __Languages:__ Go, Python, JavaScript, Terraform/Tofu, C, Java, Rust, Haskell, Shell (Bash, Fish)
-  - __Technologies:__ GNU/Linux, Git, CI/CD (Tekton, Travis, GitHub Actions), Cloud (IBM Cloud, Azure, AWS), Databases (Redis, LanceDB, Postgres), Podman/Docker, Kubernetes (OpenShift)
+  - __Technologies:__ GNU/Linux, Git, CI/CD (Tekton, Travis, GitHub Actions), Cloud (IBM Cloud, Azure, AWS), Databases (NoSQL, vector, basic SQL), Containers (Podman, Docker), Kubernetes (OpenShift)
 
