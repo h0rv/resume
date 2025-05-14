@@ -1,4 +1,11 @@
-#!/usr/bin/env python3
+# /// script
+# dependencies = [
+#   "markdown>=3.8",
+#   "weasyprint>=65.1",
+# ]
+# ///
+
+
 import argparse
 import logging
 import os
